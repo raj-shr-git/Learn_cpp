@@ -1,1 +1,7 @@
-#include<iostream.h>
+#include <iostream.h>
+#inlcude <conio.h>
+
+str main()
+{
+    std;
+}
